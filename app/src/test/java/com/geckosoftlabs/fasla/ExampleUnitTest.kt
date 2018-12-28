@@ -1,4 +1,4 @@
-package com.geckosoftlabs.yayavar
+package com.geckosoftlabs.fasla
 
 import org.junit.Test
 

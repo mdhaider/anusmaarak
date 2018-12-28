@@ -1,4 +1,4 @@
-package com.geckosoftlabs.yayavar
+package com.geckosoftlabs.fasla
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
